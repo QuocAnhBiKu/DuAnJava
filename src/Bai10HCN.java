@@ -16,7 +16,7 @@ public class Bai10HCN {
                     break;
                 }
                 double cv = (x+y)*2;
-                double dt = x * y;
+                 double dt = x * y;
 
                 System.out.println("Chu vi hinh chu nhat la: "+ cv);
                 System.out.println("Dien tich hinh chu nhat la: "+dt);
