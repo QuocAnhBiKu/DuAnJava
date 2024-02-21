@@ -1,3 +1,5 @@
+package Ontap;
+
 import java.util.Scanner;
 
 public class Bai10HCN {

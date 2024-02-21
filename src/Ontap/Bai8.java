@@ -1,3 +1,5 @@
+package Ontap;
+
 public class Bai8 {
 
     public  static  void  main (String[] args){
