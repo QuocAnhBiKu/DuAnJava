@@ -8,11 +8,11 @@ public class BaiTapLab1 {
 
         Scanner scanner = new Scanner(System.in);
         System.out.printf("Nhap ten cua ban: ");
-        String a = scanner.nextLine();
+        String name = scanner.nextLine();
         System.out.printf("Nhap diem trung binh: ");
-        Double b = scanner.nextDouble();
+        Double diem = scanner.nextDouble();
 
-        System.out.printf(a+" co diem TB la " + b);
+        System.out.printf(name+" co diem TB la " + diem);
 
     }
 }
