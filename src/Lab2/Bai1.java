@@ -14,8 +14,8 @@ public class Bai1 {
         } else if (a == 0 && b != 0) {
             System.out.println("Phuong trinh vo nghiem ");
         }else {
-            int x = (-b)/a;
-            System.out.println("Nghiem cua phuong trinh la : " + x);
+            float x =(float) (-b)/a;
+            System.out.println("Nghiem cua phuong trinh la = %.3f " + x);
         }
     }
 }
